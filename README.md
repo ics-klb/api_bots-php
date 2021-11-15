@@ -1,3 +1,3 @@
 # api-php-bots
-API для чат-ботов для мессенджеров «Viber», «Telegram», «Facebook».
+API чат-ботов для мессенджеров «Viber», «Telegram», «Facebook».
 
